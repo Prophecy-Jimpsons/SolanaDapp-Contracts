@@ -1,9 +1,9 @@
-# PJ Token
+# JIMP Token
 > Solana SPL Token for ProphecyJimpsons Ecosystem
 
-- **Max Supply**: 500,000,000 PJ
+- **Max Supply**: 500,000,000 JIMP
 - **Decimals**: 9
-- **Program ID**: `FLLkxbfaKxAycFjkt7jRFYhARJQnXdfejkqz2Jun1Dmh`
+- **Program ID**: `FLLkxbfaKxAycFjk*********nXdfejkqz2Jun1Dmh`
 
 ## Features
 - Fixed maximum supply enforcement
@@ -19,7 +19,7 @@ text
 
 ## Test
 anchor test
-anchor verify -p pj_token --provider.cluster mainnet
+anchor verify -p jimp_token --provider.cluster mainnet
 text
 
 ## Contract Functions
