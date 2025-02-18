@@ -1,7 +1,7 @@
 # JIMP Token
 > Solana SPL Token for ProphecyJimpsons Ecosystem
 
-- **Max Supply**: 500,000,000 JIMP
+- **Max Supply**: 1B JIMP
 - **Decimals**: 9
 - **Program ID**: `FLLkxbfaKxAycFjk*********nXdfejkqz2Jun1Dmh`
 
